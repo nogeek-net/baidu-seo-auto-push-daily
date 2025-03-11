@@ -157,7 +157,7 @@
 >
 > 头像：https://javaguide.net/icon-192.png
 >
-> 描述：最全的Java面试指南
+> 描述：「Java学习 + 面试指南」
 >
 > OG：https://javaguide.net/JavaGuide-og.png
 
