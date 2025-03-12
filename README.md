@@ -1,5 +1,10 @@
 # 最好的百度提交每日自动提交工具<font color=red>【免费】</font>
 
+|        |                                                        |
+| ------ | ------------------------------------------------------ |
+| github | https://github.com/nogeek-cn/baidu-seo-auto-push-daily |
+| gitee  | https://gitee.com/nogeek-cn/baidu-seo-auto-push-daily  |
+
 
 
 ## 本工具比别的工具好的地方
