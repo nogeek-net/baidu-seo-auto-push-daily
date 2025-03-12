@@ -12,9 +12,9 @@
 1. **<font color=red>【免费：你只需要在你的网站中添加我的网站友链，我就可以帮你提交百度 SEO】</font>**
 2. 自动提交【别的网站上的都需要手动提交】
 3. 页面更新，自动提交
-   - 根据 sitemap.xml 更新自动提交【如果发现 sitemap.xml 中有了更新的日期，对比上一次的更新时间，如果 sitemap.xml 中的更新时间在上一次的提交时间之后，那么就会立马提交】
+    - 根据 sitemap.xml 更新自动提交【如果发现 sitemap.xml 中有了更新的日期，对比上一次的更新时间，如果 sitemap.xml 中的更新时间在上一次的提交时间之后，那么就会立马提交】
 4. 简单方便
-   - 提交【网站、baidu_seo_token、sitemap 地址】就可以了
+    - 提交【网站、baidu_seo_token、sitemap 地址】就可以了
 5. 就可以每天打开 【百度资源平台】查看收录的反馈了
 6. 最新更新优先提交，在提交次数有限的情况下，优先提交最近更新的页面
 7. 每次提交一个，直到今天的提交次数耗费完毕
@@ -56,41 +56,41 @@
 
 ### Bing的SEO增长现状
 
-![Bing的SEO增长现状.png](assets/Bing的SEO增长现状.png)
+![Bing的SEO增长现状.png](https://nogeek.cn/baidu-seo-auto-push-daily/assets/Bing的SEO增长现状.png)
 
 
 
 ### 谷歌的SEO增长现状
 
-![谷歌的SEO增长现状.png](assets/谷歌的SEO增长现状.png)
+![谷歌的SEO增长现状.png](https://nogeek.cn/baidu-seo-auto-push-daily/assets/谷歌的SEO增长现状.png)
 
 
 
 ## 百度的收录不收录的几个原因
 
 - sitemap.xml 无法提交【应该是只有百度的 资源平台VIP合作伙伴 才能够拥有】
-  - [《百度资源平台VIP俱乐部介绍及申请》](https://ziyuan.baidu.com/vip/index)
+    - [《百度资源平台VIP俱乐部介绍及申请》](https://ziyuan.baidu.com/vip/index)
 - 快速抓取也不生效，经过本人尝试，现在的很多百度 前端 js自动提交的也都是不生效的。
-  - 很多博文写都可以自动提交，其实你没有快速抓取的权限，根本无法快速提交的
+    - 很多博文写都可以自动提交，其实你没有快速抓取的权限，根本无法快速提交的
 
 
 
 ## 提交给百度的两个方法
 
 - 手动提交
-  - 每天登陆到百度去手动提交
-  - 优点：
-    - 想提交什么，提交什么
-    - 立马能看到结果
-  - 缺点
-    - **太累了，每次打开百度网站，去提交太慢了。操作来操作去的，太慢了。**
-    - **容易出错：你昨天提交的 URL，今天最好不要提交，今天最好提交今天更新的页面，这样保证你仅有的几次提交机会可以提交**
+    - 每天登陆到百度去手动提交
+    - 优点：
+        - 想提交什么，提交什么
+        - 立马能看到结果
+    - 缺点
+        - **太累了，每次打开百度网站，去提交太慢了。操作来操作去的，太慢了。**
+        - **容易出错：你昨天提交的 URL，今天最好不要提交，今天最好提交今天更新的页面，这样保证你仅有的几次提交机会可以提交**
 - API 提交
-  - 通过程序的方式去提交 API
-  - 优点：
-    - 自动化
-  - 缺点
-    - 需要写程序进行管理
+    - 通过程序的方式去提交 API
+    - 优点：
+        - 自动化
+    - 缺点
+        - 需要写程序进行管理
 
 ----
 
@@ -108,11 +108,11 @@
 
 #### 打开百度资源网站列表管理界面
 
-![百度资源网站列表管理界面.png](assets/百度资源网站列表管理界面.png)
+![百度资源网站列表管理界面.png](https://nogeek.cn/baidu-seo-auto-push-daily/assets/百度资源网站列表管理界面.png)
 
 #### 点击普通收录
 
-![普通收录中查看百度SEO_Token.png](assets/普通收录中查看百度SEO_Token.png)
+![普通收录中查看百度SEO_Token.png](https://nogeek.cn/baidu-seo-auto-push-daily/assets/普通收录中查看百度SEO_Token.png)
 
 这里就是你的网站的 token
 
@@ -124,7 +124,7 @@
 
 ### 从哪里看提交了多少资源：百度API提交数据反馈页面
 
-![百度API提交数据反馈页面.png](assets/百度API提交数据反馈页面.png)
+![百度API提交数据反馈页面.png](https://nogeek.cn/baidu-seo-auto-push-daily/assets/百度API提交数据反馈页面.png)
 
 
 
@@ -138,7 +138,7 @@
 
 #### 你看了我的推送记录存储记录，就知道我的工具靠谱
 
-![我的百度的推送记录.png](assets/我的百度的推送记录.png)
+![我的百度的推送记录.png](https://nogeek.cn/baidu-seo-auto-push-daily/assets/我的百度的推送记录.png)
 
 
 
@@ -165,7 +165,7 @@
 如果你直接付费提交的话 **一年 50 元**
 
 
-![赞赏码.png](assets/赞赏码.png)
+![赞赏码.png](https://nogeek.cn/assets/赞赏码.png)
 
 
 ## 免费提交
@@ -201,7 +201,7 @@
 
 | QQ号                    | 微信公众号                            |
 | ----------------------- | ------------------------------------- |
-| ![QQ号](assets/QQ.jpeg) | ![微信公众号](assets/微信公众号.jpeg) |
+| ![QQ号](https://nogeek.cn/baidu-seo-auto-push-daily/assets/QQ.jpeg) | ![微信公众号](https://nogeek.cn/baidu-seo-auto-push-daily/assets/微信公众号.jpeg) |
 
 
 
