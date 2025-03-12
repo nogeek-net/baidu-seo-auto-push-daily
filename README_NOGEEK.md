@@ -165,7 +165,7 @@
 如果你直接付费提交的话 **一年 50 元**
 
 
-![赞赏码.png](https://nogeek.cn/assets/赞赏码.png)
+![赞赏码.png](https://nogeek.cn/baidu-seo-auto-push-daily/assets/赞赏码.png)
 
 
 ## 免费提交
