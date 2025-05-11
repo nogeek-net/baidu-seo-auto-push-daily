@@ -10,11 +10,11 @@ echo "============================================================="
 git pull --no-edit gitee master
 # git pull --no-edit codeup master
 git pull --no-edit github master
-git pull --no-edit github-org master
+#git pull --no-edit github-org master
 git push gitee master
 # git push codeup master
 git push github master
-git push github-org master
+#git push github-org master
 
 
 echo "============================================================="
